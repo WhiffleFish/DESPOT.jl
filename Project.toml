@@ -1,0 +1,8 @@
+name = "DESPOT"
+uuid = "575583c9-d3a1-4b70-9062-52356a60a6de"
+authors = ["WhiffleFish <tylertronics@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+POMDPs = "a93abf59-7444-517b-a68a-c42f96afdd7d"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
